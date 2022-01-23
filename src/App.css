@@ -64,7 +64,11 @@ img {
   animation-duration: 3s;
 }
 
-.modalButton{
-color: green;
-transition: color 3s ease-in;
+button{
+cursor: pointer;
+}
+button:hover{
+transition: background-color 0.5s ease-in-out;
+-webkit-transition: background-color 0.5s ease-in-out;
+background-color: lightgreen;
 }
