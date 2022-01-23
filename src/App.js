@@ -19,7 +19,7 @@ class App extends PureComponent {
           <Modalbox>
             <div className="modal">
               <h2 className="modalHeader">modal window</h2>
-              <button onClick={this.handleClick}>Закрыть</button>
+              <button className="modalButton" onClick={this.handleClick}>Закрыть</button>
               <picture>
                 <img
                   src="https://www.pinclipart.com/picdir/big/211-2118619_snowman-images-free-download-snowman-free-png-photo.png"

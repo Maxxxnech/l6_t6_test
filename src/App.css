@@ -63,3 +63,8 @@ img {
   -webkit-animation-duration: 3s;
   animation-duration: 3s;
 }
+
+.modalButton{
+color: green;
+transition: color 3s ease-in;
+}
