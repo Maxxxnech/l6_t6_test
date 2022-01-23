@@ -36,9 +36,9 @@
   -webkit-animation-name: enterHeader;
   animation-name: enterHeader;
 
-  -moz-animation-duration: 2s;
-  -webkit-animation-duration: 2s;
-  animation-duration: 2s;
+  -moz-animation-duration: 1.5s;
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
 }
 
 @keyframes enterSnowman {
@@ -59,9 +59,9 @@ img {
   -webkit-animation-name: enterSnowman;
   animation-name: enterSnowman;
 
-  -moz-animation-duration: 2s;
-  -webkit-animation-duration: 2s;
-  animation-duration: 2s;
+  -moz-animation-duration: 1.5s;
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
 }
 
 button{
